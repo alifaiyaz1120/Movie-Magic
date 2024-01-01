@@ -1,0 +1,15 @@
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-auth-20.7.0-0 /Users/ashdeepsingh/.gradle/caches/transforms-3/09acd1e6df69b544bb24ff3e69311d5d/transformed/jetified-play-services-auth-20.7.0/res
+io.flutter.plugins.googlesignin.google_sign_in_android-core-1.6.0-1 /Users/ashdeepsingh/.gradle/caches/transforms-3/55bcb5de5f3e83fcdc57239c67e2a357/transformed/core-1.6.0/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-base-18.0.1-2 /Users/ashdeepsingh/.gradle/caches/transforms-3/675374a81f79f0172317d524d18c8d85/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-java-1.0.0-beta04-3 /Users/ashdeepsingh/.gradle/caches/transforms-3/981afee23352a7ed07a7f22c39d8b412/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-basement-18.2.0-4 /Users/ashdeepsingh/.gradle/caches/transforms-3/bb423b9b76250f9455c18b23e81be025/transformed/jetified-play-services-basement-18.2.0/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-1.0.0-beta04-5 /Users/ashdeepsingh/.gradle/caches/transforms-3/debfbf90a2465fdd6e98dc208301c729/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-annotation-experimental-1.1.0-6 /Users/ashdeepsingh/.gradle/caches/transforms-3/fdb00f16c339871e988c28b1c0df6b67/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.googlesignin.google_sign_in_android-main-7 /Users/ashdeepsingh/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.20/android/src/main/res
+io.flutter.plugins.googlesignin.google_sign_in_android-release-8 /Users/ashdeepsingh/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.20/android/src/release/res
+io.flutter.plugins.googlesignin.google_sign_in_android-pngs-9 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/google_sign_in_android/generated/res/pngs/release
+io.flutter.plugins.googlesignin.google_sign_in_android-resValues-10 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/google_sign_in_android/generated/res/resValues/release
+io.flutter.plugins.googlesignin.google_sign_in_android-rs-11 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/google_sign_in_android/generated/res/rs/release
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-12 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/google_sign_in_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-13 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/google_sign_in_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-14 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/google_sign_in_android/intermediates/merged_res/release

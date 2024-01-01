@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">272312970756</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0NpN5goChkG4AGmAEaCRvQEm492dSKOI</string>
+    <string name="google_app_id" translatable="false">1:272312970756:android:07c34c535919aa0f46cf51</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0NpN5goChkG4AGmAEaCRvQEm492dSKOI</string>
+    <string name="google_storage_bucket" translatable="false">moviemagic-73289.appspot.com</string>
+    <string name="project_id" translatable="false">moviemagic-73289</string>
+</resources>

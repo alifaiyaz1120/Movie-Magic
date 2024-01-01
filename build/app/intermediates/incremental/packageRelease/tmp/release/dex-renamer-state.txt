@@ -1,0 +1,4 @@
+#Wed Nov 29 16:43:32 EST 2023
+base.0=/Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

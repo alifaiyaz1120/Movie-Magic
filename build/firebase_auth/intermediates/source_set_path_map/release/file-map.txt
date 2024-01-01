@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-0 /Users/ashdeepsingh/.gradle/caches/transforms-3/3737e06f05517356c74358f32ec9a8d9/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-1 /Users/ashdeepsingh/.gradle/caches/transforms-3/55bcb5de5f3e83fcdc57239c67e2a357/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-2 /Users/ashdeepsingh/.gradle/caches/transforms-3/675374a81f79f0172317d524d18c8d85/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-3 /Users/ashdeepsingh/.gradle/caches/transforms-3/981afee23352a7ed07a7f22c39d8b412/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-4 /Users/ashdeepsingh/.gradle/caches/transforms-3/b4e60b8108bacb2e8d207f4f27b66025/transformed/browser-1.4.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.2-5 /Users/ashdeepsingh/.gradle/caches/transforms-3/c899f145794001b36b4ffde92dd8b583/transformed/jetified-firebase-common-20.4.2/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-6 /Users/ashdeepsingh/.gradle/caches/transforms-3/debfbf90a2465fdd6e98dc208301c729/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-7 /Users/ashdeepsingh/.gradle/caches/transforms-3/fdb00f16c339871e988c28b1c0df6b67/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 /Users/ashdeepsingh/.pub-cache/hosted/pub.dev/firebase_auth-4.15.0/android/src/main/res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 /Users/ashdeepsingh/.pub-cache/hosted/pub.dev/firebase_auth-4.15.0/android/src/release/res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/firebase_auth/generated/res/pngs/release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/firebase_auth/generated/res/resValues/release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/firebase_auth/generated/res/rs/release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/firebase_auth/intermediates/merged_res/release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 /Users/ashdeepsingh/Downloads/coding-apps/group-project-two-team-one/build/firebase_core/intermediates/packaged_res/release
